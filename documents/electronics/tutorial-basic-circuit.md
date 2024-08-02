@@ -1,3 +1,7 @@
+# Hướng dẫn: Mạch điện cơ bản với Fritzing
+
+Tài liệu này cung cấp hướng dẫn chi tiết và minh họa cụ thể để người dùng mới có thể sử dụng phần mềm Fritzing một cách hiệu quả. Mục tiêu là giúp người dùng xây dựng, chỉnh sửa và quản lý các dự án mạch điện tử một cách dễ dàng, từ việc bắt đầu dự án, sắp xếp môi trường làm việc, xây dựng và kết nối mạch điện, đến việc chỉnh sửa thuộc tính và xuất mạch điện dưới các định dạng khác nhau. Tài liệu nhấn mạnh tầm quan trọng của việc lưu dự án thường xuyên và cung cấp các mẹo hữu ích để tối ưu hóa quy trình làm việc trong Fritzing.
+
 ### Mục lục:
 1. [Bắt đầu dự án mới](#bắt-đầu-dự-án-mới)
 2. [Sắp xếp môi trường](#sắp-xếp-môi-trường)
