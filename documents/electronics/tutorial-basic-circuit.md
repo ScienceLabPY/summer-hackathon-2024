@@ -19,7 +19,7 @@ Wokwi là một công cụ trực tuyến giúp bạn mô phỏng và thử nghi
 ⚠️ Chú ý: Không phải tất cả các linh kiện điện tử đều được hỗ trợ trong mô phỏng. Luôn kiểm tra danh sách linh kiện hỗ trợ trước khi bắt đầu dự án.
 ⚠️ Chú ý: Trình mô phỏng có thể không có cùng bố cục chân như thiết bị vật lý của bạn. Luôn tham khảo tài liệu kỹ thuật của nhà sản xuất!
 
-Trong hướng dẫn này, chúng tôi sử dụng mạch ESP32-S3 để minh họa cho các bước thao tác. Nếu bạn chưa biết, vui lòng xem qua về [ESP32-S3](/documents/electronics/intro-to-esp32.md).
+Trong hướng dẫn này, chúng tôi sử dụng mạch ESP32-S3 để minh họa cho các bước thao tác. Nếu bạn chưa biết, vui lòng xem qua về [ESP32-S3](https://classroom.google.com/c/NzAyMjgzNzM1NTE5/m/NjkxNzYyNDg3NDgz/details).
 
 **Không gian làm việc** của Wokwi:
 ![Không gian làm việc](/assets/wokwi/workspace.png)
