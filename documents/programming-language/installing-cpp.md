@@ -133,3 +133,7 @@ Sau khi cài đặt xong, bạn có thể chạy code bằng cách nhấn tổ h
 
 ### Kết
 Trên đây, mình đã giới thiệu với các bạn về Visual Studio Code và các cài đặt để lập trình C++. Hy vọng bài viết sẽ giúp ích cho các bạn.
+
+```
+Science Lab © 2024. Bản quyền thuộc về Science Lab.
+```
